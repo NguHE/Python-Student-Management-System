@@ -1,5 +1,4 @@
 # NGU HUI EN
-# TP073894
 
 # define student list to store records
 students = []
